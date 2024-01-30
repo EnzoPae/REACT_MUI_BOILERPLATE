@@ -6,7 +6,7 @@ const Example = () => {
   useEffect(() => {
     alertInfo("global alert example");
   }, []);
-  return <div>Example</div>;
+  return <div>Example.</div>;
 };
 
 export default Example;
